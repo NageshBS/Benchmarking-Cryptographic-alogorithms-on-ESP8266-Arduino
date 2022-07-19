@@ -7,13 +7,13 @@ Benchmarking Cryptographic alogorithms on ESP8266 Arduino- AES-128,192,256,  CHA
     
   <h2>Core algorithms</h2>
            
-Authenticated encryption with associated data (AEAD): ChaChaPoly
-Block ciphers: AES128,  AES192,AES256
-Stream ciphers:ChaCha
-Message authenticators: Poly1305
-Random number generation:RNG
+Authenticated encryption with associated data (AEAD): ChaChaPoly <br>
+Block ciphers: AES128,  AES192,AES256 <br>
+Stream ciphers:ChaCha <br>
+Message authenticators: Poly1305 <br>
+Random number generation:RNG<br>
        
   <h2>Light-weight algorithms </h2>
            
-Authenticated encryption with associated data (AEAD): ASCON, ACRON
-Block ciphers: Speck,SpeckSmall,SpeckTiny
+Authenticated encryption with associated data (AEAD): ASCON, ACRON <br>
+Block ciphers: Speck,SpeckSmall,SpeckTiny <br>
