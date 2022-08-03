@@ -17,3 +17,7 @@ Random number generation:RNG<br>
            
 Authenticated encryption with associated data (AEAD): ASCON, ACRON <br>
 Block ciphers: Speck,SpeckSmall,SpeckTiny <br>
+
+  <h2>3. Random number generation:RNG </h2>
+
+In addition to this, we are generating random set of bits such as 128bits,192bits,256 bits in place of secret key.Random number generators (RNGs) are essential for cryptographic applications and form the foundation of security systems. For IoT devices, an RNG is generally implemented by incorporating hardware peripheral controllers, which are proving to be imperfect as a source for real randomness because they start with a deterministic input.
